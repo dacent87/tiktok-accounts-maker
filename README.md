@@ -3,7 +3,7 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 ```json
 [
     {
-        "register_time": "2025-08-10 22:56:40",
+        "register_time": "2026-03-10 22:56:40",
         "username": "actjqilkfng",
         "password": "Ouncnnsdf!",
         "email": "bdmasudrtdu@tozya111.com",
@@ -30,7 +30,7 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
             "seed": "",
             "seedId": "",
             "sdiToken": "",
-            "userAgent": "com.zhiliaoapp.musically/2023501030 (Linux; U; Android 13; en_US; SM-G988B; Build/TQ2A.230505.002.A1; Cronet/TTNetVersion:711894ae 2024-06-04 QuicVersion:5f987023 2024-05-10)",
+            "userAgent": "com.zhiliaoapp.musically/2023501030 (Linux; U; Android 13; en_US; SM-G988B; Build/TQ2A.230505.002.A1; Cronet/TTNetVersion:711894ae 2026-03-10 QuicVersion:5f987023 2024-05-10)",
             "webUa": "Mozilla/5.0 (Linux; U; Android 13; en_US; SM-G988B Build/TQ2A.230505.002.A1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.136 Mobile Safari/537.36",
             "osVersion": "13",
             "deviceType": "SM-G988B",
